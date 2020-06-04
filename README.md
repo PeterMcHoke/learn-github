@@ -1,3 +1,2 @@
 # Learn GitHub
-
-This is a throwaway repo used to learn about working with Git and GitHub.
+This is a NEW line that will be different from the local copy!
